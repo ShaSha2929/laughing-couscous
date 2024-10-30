@@ -1,5 +1,4 @@
 name: Windows-LiteManager 
-Viewer 
 on: 
 workflow_dispatch: 
 jobs: 
